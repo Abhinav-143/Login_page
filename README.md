@@ -38,7 +38,7 @@ Shows a success message or performs an action (like redirecting) on successful l
 # Installation & Setup:
 # Clone the repository:
 Vs code
-git clone https://github.com/Abhinav-143/react-Login_page.git
+git clone [https://github.com/Abhinav-143/react-Login_page.git](https://github.com/Abhinav-143/Login_page/)
 # Install dependencies:
 Vs code
 npm install
